@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" role="img" width="24" height="24" viewBox="0 0 24 24"  fill="currentColor">
+  <g fill="#000000">
+    <!-- E: three horizontal bars -->
+    <path d="M1.5 3.5h8v2h-8zM1.5 9.5h8v2h-8zM1.5 15.5h8v2h-8z"/>
+    <!-- F: vertical and top/middle bars -->
+    <path d="M13.5 3.5h2v14h-2zM15.5 3.5h6v2h-6zM15.5 9.5h5v2h-5z"/>
+  </g>
+</svg>
