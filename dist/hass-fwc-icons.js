@@ -33,7 +33,7 @@ const FWC_ICONS_MAP = {
   },
   "ecoflow": {
     "keywords": [],
-    "path": "M1.5 3.5h8v2h-8zM1.5 9.5h8v2h-8zM1.5 15.5h8v2h-8z"
+    "path": "M1.5 3.5h8v2h-8zM1.5 9.5h8v2h-8zM1.5 15.5h8v2h-8z M13.5 3.5h2v14h-2zM15.5 3.5h6v2h-6zM15.5 9.5h5v2h-5z"
   },
   "hp": {
     "keywords": [],
